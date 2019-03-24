@@ -1,0 +1,6 @@
+jupyter
+matplotlib
+numpy
+opencv-python==3.2.0.6
+pillow
+tqdm
